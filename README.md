@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @deepti-chauhan
-- 🌱 I’m currently pursuing MCA from University of Delhi.
-- 📫 reach me at @deepti22599@gmail.com 
+- 👋 Hi, I’m a Software Developer and Designer
+- 🌱 I’ve completed my Master's in Computer Application from University of Delhi.
+- 📫 reach me at @deeptichauhanofficial@gmail.com 
