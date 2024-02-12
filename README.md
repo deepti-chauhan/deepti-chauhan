@@ -8,7 +8,7 @@ I'm a React developer based in India, and I'm passionate about creating beautifu
 
 ## 📦 Toolbox
 
-**Languages:**  `Core-Java` `JavaScript` `Python`
+**Languages:**  `Core-Java` `JavaScript` `TypeScript` `Python`
 
 **Frontend Development:** `React.js` `Tailwind` `Material-UI` `HTML5` `CSS3` 
 
