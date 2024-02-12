@@ -9,9 +9,6 @@ I'm a React developer based in India, and I'm passionate about creating beautifu
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `Tailwind` `Material-UI`
- 
-**Version Control:** `Git` `GitLab` 
-
 **Backend Development:** `Node.js` `Express.js` `Firebase` `MongoDB` `Mysql`
-
+**Version Control:** `Git` `GitLab` 
 **Others:**  `Postman` `Vercel` 
