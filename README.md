@@ -8,7 +8,12 @@ I'm a React developer based in India, and I'm passionate about creating beautifu
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Tailwind` `Material-UI`
-**Backend Development:** `Node.js` `Express.js` `Firebase` `MongoDB` `Mysql`
+**Languages:**  `Core-Java` `JavaScript` `Python`
+
+**Frontend Development:** `React.js` `Tailwind` `Material-UI` `HTML5` `CSS3` 
+
+**Backend Development:** `Node.js` `Express.js` `Firebase` `MongoDB` `Mysql` `PostgreSQL`
+
 **Version Control:** `Git` `GitLab` 
-**Others:**  `Postman` `Vercel` 
+
+**Others:**  `Postman` `Vercel` `VSCode`
